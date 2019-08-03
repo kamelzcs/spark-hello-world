@@ -1,4 +1,4 @@
-# spark-hello-world [![Build Status](https://travis-ci.org/szhao/spark-hello-world.svg?branch=master)](https://travis-ci.org/szhao/spark-hello-world)
+# spark-hello-world [![Build Status](https://travis-ci.org/kamelzcs/spark-hello-world.svg?branch=master)](https://travis-ci.org/kamelzcs/spark-hello-world)
 A simple hello world using Apache Spark with join on dataset
 
 ## Setup
